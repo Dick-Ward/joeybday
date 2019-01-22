@@ -1,12 +1,13 @@
 #countdown{
     font-size: 3rem;
     color: blue;
-    text-align: center;
+    margin: 10px;
+    text-align: left;
     margin-top: 20%;
 }
 #headline{
   font-size: 5rem;
-  color: blue;
+  color: red;
   text-align: center;
   margin-top: 10%;
 }
