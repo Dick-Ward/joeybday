@@ -1,12 +1,18 @@
 #countdown{
-    font-size: 3rem;
+    font-size: 4rem;
     color: blue;
     text-align: center;
     margin-top: 20%;
 }
 #headline{
+  float: left;
   font-size: 5rem;
-  color: blue;
+  color: orange;
   text-align: center;
   margin-top: 10%;
+}
+
+.birthday-boy {
+  font-size: 4rem;
+  color: red;
 }
